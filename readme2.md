@@ -6,3 +6,4 @@
 * comando git pull
 * comando git fetch
 * comando command
+* pq n vai?
