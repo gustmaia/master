@@ -7,3 +7,4 @@
 * comando git fetch
 * comando command
 * pq n vai?
+* estou tentando diversas vezes passar isso pro site
