@@ -8,3 +8,4 @@
 * comando command
 * pq n vai?
 * estou tentando diversas vezes passar isso pro site
+* deu certo agorinha
